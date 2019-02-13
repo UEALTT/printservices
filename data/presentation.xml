@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Designing Posters for Printing" width="1280.0000000" height="720.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{B82B25C0-CA82-4054-98ED-F5BD5D16BB11}">
+<presentation title="Designing Posters for Printing" width="1280.0000000" height="720.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{9726B594-2B41-4ADB-B3B2-AD03A9CBCF63}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -28,6 +28,7 @@
 		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
 		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
 		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
 	</graphicAssets>
 	<playlists/>
 	<narration/>
@@ -161,7 +162,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="218632" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="218650" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset0">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -175,7 +176,26 @@
 			<notesHtml/>
 			<text>Designing Posters for Printing</text>
 		</slide>
-		<slide index="1" title="Course Overview" titleNormalized="course overview" src="slide2.swf" size="15135" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset1">
+		<slide index="1" title="Welcome to this resource" titleNormalized="welcome to this resource" src="slide2.swf" size="7990" advanceOnTime="0" framesCount="1200" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset1">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1e6eab58.spr0_1377960921" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1e6eab58.spr2_1377960921" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="1" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="1199" playTime="49.9156667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Welcome to this resource</text>
+		</slide>
+		<slide index="2" title="Course Overview" titleNormalized="course overview" src="slide3.swf" size="15147" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset2">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -197,15 +217,15 @@ COLOUR
 BRANDING
 COPYRIGHT</text>
 		</slide>
-		<slide index="2" title="The academic content and your audience" titleNormalized="the academic content and your audience" src="slide3.swf" size="8244" advanceOnTime="0" framesCount="1201" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset2">
+		<slide index="3" title="The academic content and your audience" titleNormalized="the academic content and your audience" src="slide4.swf" size="8256" advanceOnTime="0" framesCount="1201" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset3">
 			<sounds/>
 			<videos>
-				<video id="video0" videoClipId="ispring.resources_10b2b878.spr0_82392734" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_10b2b878.spr2_82392734" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_1e6eab58.spr0_1377976359" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1e6eab58.spr2_1377976359" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video0" startPos="0.0000000"/>
+				<playVideo frameIndex="1" videoId="video1" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000"/>
@@ -216,7 +236,7 @@ COPYRIGHT</text>
 			<notesHtml/>
 			<text>The academic content and your audience</text>
 		</slide>
-		<slide index="3" title="Page Sizes" titleNormalized="page sizes" src="slide4.swf" size="4732" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset3">
+		<slide index="4" title="Page Sizes" titleNormalized="page sizes" src="slide5.swf" size="5064" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset4">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -231,15 +251,22 @@ COPYRIGHT</text>
 			<text>Page Sizes
 LARGE FORMAT 
 A1 (594 x 841mm)
+Large posters
 A2 (420 x 594mm)
+Medium sized posters
 A0 (841 x 1189mm)
+Very large posters
 OTHER STANDARD SIZES
 A3 (420 x 297mm)
+Noticeboard posters
 A4 (297 x 210mm)
+Standard printed sheet
 A5 (210 x 148mm)
-A6 (148x 105mm)</text>
+Flyers
+A6 (148x 105mm)
+Postcards</text>
 		</slide>
-		<slide index="4" title="Content" titleNormalized="content" src="slide5.swf" size="231509" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset4">
+		<slide index="5" title="Content" titleNormalized="content" src="slide6.swf" size="231565" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset5">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -255,7 +282,7 @@ A6 (148x 105mm)</text>
 Aim to make your poster readable from 2 metres (for A0/A1 sizes)
 Number of words - 300 or 500?</text>
 		</slide>
-		<slide index="5" title="Type and Style" titleNormalized="type and style" src="slide6.swf" size="196094" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset5">
+		<slide index="6" title="Type and Style" titleNormalized="type and style" src="slide7.swf" size="196108" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset6">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -271,7 +298,7 @@ Number of words - 300 or 500?</text>
 Type – sans serif fonts – e.g. Arial, Brandon, Tahoma, Trebuchet MS, Verdana and Apple Mac - Geneva &amp; Helvetica 
 Style – be consistent – text which performs the same function should always be formatted in the exactly the same way</text>
 		</slide>
-		<slide index="6" title="Font size and grouping" titleNormalized="font size and grouping" src="slide7.swf" size="125197" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset6">
+		<slide index="7" title="Font size and grouping" titleNormalized="font size and grouping" src="slide8.swf" size="104700" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset7">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -292,9 +319,10 @@ Main title
 Heading
 Sub-heading
 Standard text
-Group sections of text appropriately</text>
+Group sections of text appropriately
+Deciding on the font sizing you need to use is very important. This handy guide will help you out.</text>
 		</slide>
-		<slide index="7" title="Line spacing" titleNormalized="line spacing" src="slide8.swf" size="105217" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset7">
+		<slide index="8" title="Line spacing" titleNormalized="line spacing" src="slide9.swf" size="105249" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset8">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -310,7 +338,7 @@ Group sections of text appropriately</text>
 Line spacing – small text
 Line spacing – large text</text>
 		</slide>
-		<slide index="8" title="Alignment &amp; other advice on formatting the type" titleNormalized="alignment &amp; other advice on formatting the type" src="slide9.swf" size="98343" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset8">
+		<slide index="9" title="Alignment &amp; other advice on formatting the type" titleNormalized="alignment &amp; other advice on formatting the type" src="slide10.swf" size="98359" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset9">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -331,7 +359,7 @@ Use italics, underlining and CAPTIALS sparingly
 Break up any large areas of text with sub-headings
 Remember that the text needs to visible from 2 metres</text>
 		</slide>
-		<slide index="9" title="Pictures &amp; images" titleNormalized="pictures &amp; images" src="slide10.swf" size="78742" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset9">
+		<slide index="10" title="Pictures &amp; images" titleNormalized="pictures &amp; images" src="slide11.swf" size="78774" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset10">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -357,7 +385,7 @@ This is likely to be referred to as lo-res
 Image Formats
 JPEG, TIFF, PNG</text>
 		</slide>
-		<slide index="10" title="Charts &amp; tables" titleNormalized="charts &amp; tables" src="slide11.swf" size="54540" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset10">
+		<slide index="11" title="Charts &amp; tables" titleNormalized="charts &amp; tables" src="slide12.swf" size="54508" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset11">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -384,15 +412,15 @@ Keep them simple, enlarge the text
 and thicken the lines 
 Default settings are rarely appropriate</text>
 		</slide>
-		<slide index="11" title="Software for poster creation" titleNormalized="software for poster creation" src="slide12.swf" size="66190" advanceOnTime="0" framesCount="362" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset11">
+		<slide index="12" title="Software for poster creation" titleNormalized="software for poster creation" src="slide13.swf" size="66204" advanceOnTime="0" framesCount="362" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset12">
 			<sounds/>
 			<videos>
-				<video id="video1" videoClipId="ispring.resources_191ec378.spr0_82401203" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_191ec378.spr2_82401203" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_26799338.spr0_1377985500" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_26799338.spr2_1377985500" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video1" startPos="0.0000000"/>
+				<playVideo frameIndex="1" videoId="video2" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000"/>
@@ -405,7 +433,7 @@ Default settings are rarely appropriate</text>
 UEA’s standard desktop provides MS PowerPoint or Publisher which are both suitable applications
 Other software that can be used includes Adobe InDesign and Quark Express</text>
 		</slide>
-		<slide index="12" title="Design the layout" titleNormalized="design the layout" src="slide13.swf" size="2355049" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset12">
+		<slide index="13" title="Design the layout" titleNormalized="design the layout" src="slide14.swf" size="2357880" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset13">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -421,7 +449,7 @@ Other software that can be used includes Adobe InDesign and Quark Express</text>
 Sequencing the information for your viewer
 Asymmetric and symmetric layouts</text>
 		</slide>
-		<slide index="13" title="Choose a colour scheme" titleNormalized="choose a colour scheme" src="slide14.swf" size="100573" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset13">
+		<slide index="14" title="Choose a colour scheme" titleNormalized="choose a colour scheme" src="slide15.swf" size="100938" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset14">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -440,7 +468,7 @@ Analogous
 Complimentary
 Shades</text>
 		</slide>
-		<slide index="14" title="Colour examples" titleNormalized="colour examples" src="slide15.swf" size="455324" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset14">
+		<slide index="15" title="Colour examples" titleNormalized="colour examples" src="slide16.swf" size="455327" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset15">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -454,7 +482,7 @@ Shades</text>
 			<notesHtml/>
 			<text>Colour examples</text>
 		</slide>
-		<slide index="15" title="Choose a colour scheme" titleNormalized="choose a colour scheme" src="slide16.swf" size="4644" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset15">
+		<slide index="16" title="Choose a colour scheme" titleNormalized="choose a colour scheme" src="slide17.swf" size="4650" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset16">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -475,7 +503,7 @@ Please refer to British Dyslexia Style Guide
 
 </text>
 		</slide>
-		<slide index="16" title="UEA branding &amp; use of logos" titleNormalized="uea branding &amp; use of logos" src="slide17.swf" size="4772" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset16">
+		<slide index="17" title="UEA branding &amp; use of logos" titleNormalized="uea branding &amp; use of logos" src="slide18.swf" size="4790" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset17">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -492,7 +520,7 @@ The UEA brand is made up of several distinct elements that create a style. And t
 To ensure our communications are always fresh and contemporary, the glint within the logo should always adopt one of the new brand colours, we should never use a completely black logo.
 The branding guidelines can be viewed here.</text>
 		</slide>
-		<slide index="17" title="UEA branding &amp; use of logos" titleNormalized="uea branding &amp; use of logos" src="slide18.swf" size="5507" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset17">
+		<slide index="18" title="UEA branding &amp; use of logos" titleNormalized="uea branding &amp; use of logos" src="slide19.swf" size="5529" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset18">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -512,7 +540,7 @@ Logos can be downloaded from here
 .wmf version recommend for use in PowerPoint
 More logos can also be downloaded from the UEA Asset Bank</text>
 		</slide>
-		<slide index="18" title="Logos" titleNormalized="logos" src="slide19.swf" size="12222" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset18">
+		<slide index="19" title="Logos" titleNormalized="logos" src="slide20.swf" size="12236" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset19">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -533,7 +561,7 @@ Landscape sizing it at 1/7th of the format width it is placed on e.g. A4 landsca
 Clear space
 Determined by using the size of the glint within the logo. This defines the minimum distance between logos and the edge of a format.</text>
 		</slide>
-		<slide index="19" title="Copyright" titleNormalized="copyright" src="slide20.swf" size="5330" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset19">
+		<slide index="20" title="Copyright" titleNormalized="copyright" src="slide21.swf" size="5350" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset20">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -552,7 +580,7 @@ https://www.jisc.ac.uk/guides/copyright-guide-for-students
 https://www.uea.ac.uk/web/hub/information-services/strategy-planning-and-compliance/regulations-and-policies/information-regulations-and-policies/copyright/students/research 
 </text>
 		</slide>
-		<slide index="20" title="Examples" titleNormalized="examples" src="slide21.swf" size="207459" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset20">
+		<slide index="21" title="Examples" titleNormalized="examples" src="slide22.swf" size="207454" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset21">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -566,7 +594,7 @@ https://www.uea.ac.uk/web/hub/information-services/strategy-planning-and-complia
 			<notesHtml/>
 			<text>Examples</text>
 		</slide>
-		<slide index="21" title="Examples" titleNormalized="examples" src="slide22.swf" size="289583" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset21">
+		<slide index="22" title="Examples" titleNormalized="examples" src="slide23.swf" size="289632" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset22">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -580,7 +608,7 @@ https://www.uea.ac.uk/web/hub/information-services/strategy-planning-and-complia
 			<notesHtml/>
 			<text>Examples</text>
 		</slide>
-		<quiz index="22" title="" titleNormalized="" src="quiz1.swf" size="1012943" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset22" embedded="0">
+		<quiz index="23" title="" titleNormalized="" src="quiz1.swf" size="1012949" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset23" embedded="0">
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
